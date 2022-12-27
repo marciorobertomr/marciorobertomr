@@ -1,6 +1,6 @@
 ## Olá 👋, sou Márcio Roberto e é uma honra lhe ter por aqui!
 
-- 🔥 Desenvolvedor Front-End em formação
+- 🔭 Desenvolvedor Front-End em formação
 - 🌱 Estudante do Programa ONE (Alura + Oracle)
 - ⚡ Curiosidade: Já publiquei um livro de ficção/ação na Amazon em formato digital chamado: Aprimorados - Os Três Primeiros
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-#### Minhas redes sociais
+### Minhas redes sociais
 <p>
 <a href="https://www.linkedin.com/in/marciorobertomr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marciorobertomr/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/marcioroberto_mr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/marcioroberto_mr/" height="30" width="40" /></a>
@@ -31,6 +31,7 @@
 </div>
 
 <br>
+
 <div align="center">
   <a href="https://github.com/marciorobertomr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciorobertomr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -39,4 +40,4 @@
   
   ##
   
-  ![Snake animation](https://github.com/marciorobertomr/marciorobertomr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marciorobertomr/marciorobertomr/blob/output/github-contribution-grid-snake.svg)
