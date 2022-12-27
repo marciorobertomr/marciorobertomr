@@ -1,11 +1,10 @@
-### Olá! Seja bem-vindo ao meu perfil! Me chamo Márcio Roberto e é uma honra lhe ter por aqui! 👋
+## Olá 👋, sou Márcio Roberto e é uma honra lhe ter por aqui!
 
-- 🌱 Atualmente estou estudando para me tornar um Desenvolvedor Front-End
-- 😄 Pronomes: Ele/Dele
+- 🔥 Desenvolvedor Front-End em formação
+- 🌱 Estudante do Programa ONE (Alura + Oracle)
 - ⚡ Curiosidade: Já publiquei um livro de ficção/ação na Amazon em formato digital chamado: Aprimorados - Os Três Primeiros
 
 <!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,6 +14,13 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Minhas redes sociais
+<p>
+<a href="https://www.linkedin.com/in/marciorobertomr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marciorobertomr/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/marcioroberto_mr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/marcioroberto_mr/" height="30" width="40" /></a>
+</p>
+<br>
 
 <div align="center">
   <a href="https://github.com/marciorobertomr">
