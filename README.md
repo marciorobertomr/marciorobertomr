@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <img align="right" height="200" alt="coding-time" src="code.gif">
+  <img align="left" height="200" alt="coding-time" src="code.gif">
   
   ### Tecnologias
   <div style="display: inline_block">
