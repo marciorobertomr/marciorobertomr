@@ -15,10 +15,11 @@
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  
-  <img align="left" height="200" alt="coding-time" src="code.gif">
-  
+<div>
+  <div style="display: inline_block">
+    <img align="right" height="200" alt="coding-time" src="code.gif">
+  </div>
+    
   ### Tecnologias
   <div style="display: inline_block">
     <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,10 +30,10 @@
   </div>
 
   ### Redes Sociais
-  <p>
+  <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/marciorobertomr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marciorobertomr/" height="30" width="40" /></a>
   <a href="https://www.instagram.com/marcioroberto_mr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/marcioroberto_mr/" height="30" width="40" /></a>
-  </p>
+  </div>
 
 </div>
 
