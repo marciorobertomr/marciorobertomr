@@ -15,22 +15,28 @@
 - ⚡ Fun fact: ...
 -->
 
-### Minhas redes sociais
-<p>
-<a href="https://www.linkedin.com/in/marciorobertomr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marciorobertomr/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/marcioroberto_mr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/marcioroberto_mr/" height="30" width="40" /></a>
-</p>
+<div align="center">
+  
+  <img align="right" height="200" alt="coding-time" src="code.gif">
+  
+  ### Tecnologias
+  <div style="display: inline_block">
+    <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Marcio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" alt="Marcio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  </div>
 
-### Tecnologias
-<div style="display: inline_block">
-  <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcio-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Marcio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  ### Redes Sociais
+  <p>
+  <a href="https://www.linkedin.com/in/marciorobertomr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marciorobertomr/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/marcioroberto_mr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/marcioroberto_mr/" height="30" width="40" /></a>
+  </p>
+
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <a href="https://github.com/marciorobertomr">
