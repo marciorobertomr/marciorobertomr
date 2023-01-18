@@ -3,7 +3,7 @@
   
 - 🔭 Desenvolvedor Front-End em formação
 - 🌱 Estudante do Programa ONE (Alura + Oracle)
-- ⚡ Curiosidade: Já publiquei um livro de ficção/ação na Amazon em formato digital chamado: Aprimorados - Os Três Primeiros
+- ⚡ Curiosidade: Já escrevi um livro de ficção/ação.
 
 <!--
 - 🔭 I’m currently working on ...
