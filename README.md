@@ -1,7 +1,8 @@
 ## Olá 👋, sou Márcio Roberto e é uma honra lhe ter por aqui!
   
   
-- 🔭 Desenvolvedor Front-End em formação
+- 🔭 Analista de Suporte de Sistemas da Informação
+- 💻 Desenvolvedor Front-End em formação
 - 🌱 Estudante do Programa ONE (Alura + Oracle)
 - ⚡ Curiosidade: Já escrevi um livro de ficção/ação.
 
