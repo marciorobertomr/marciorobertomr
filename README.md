@@ -3,10 +3,8 @@
   
 - 🔭 Analista de Suporte de Sistemas da Informação
 - 💻 Desenvolvedor Front-End em formação
-<!--
-- 🌱 Estudante do Programa ONE (Alura + Oracle)
--->
 - ⚡ Curiosidade: Já escrevi um livro de ficção/ação.
+<!-- - 🌱 Estudante do Programa ONE (Alura + Oracle) -->
 
 <!--
 - 🔭 I’m currently working on ...
