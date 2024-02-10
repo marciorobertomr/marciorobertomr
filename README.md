@@ -2,9 +2,9 @@
   
   
 - 🔭 Analista de Suporte de Sistemas da Informação
-- 💻 Desenvolvedor Front-End em formação
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - ⚡ Curiosidade: Já escrevi um livro de ficção/ação.
-<!-- - 🌱 Estudante do Programa ONE (Alura + Oracle) -->
+<!-- - 💻 Desenvolvedor Front-End em formação -->
 
 <!--
 - 🔭 I’m currently working on ...
